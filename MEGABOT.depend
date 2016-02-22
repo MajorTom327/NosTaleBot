@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1446231904 source:c:\users\majortom\documents\megabot\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"visual.h"
+	"bot.h"
+
+1446160584 c:\users\majortom\documents\megabot\visual.h
+	<iostream>
+	<windows.h>
+
+1446160904 source:c:\users\majortom\documents\megabot\visual.cpp
+	"visual.h"
+
+1446163738 c:\users\majortom\documents\megabot\bot.h
+	<windows.h>
+
+1446474814 source:c:\users\majortom\documents\megabot\bot.cpp
+	"bot.h"
+
